@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'BhuTuka Expanded One', cursive;
+font-weight: bolder;
+}
+
+#status
+{
+font-family: 'BhuTuka Expanded One', cursive;
+}
+
+#objects{
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+.anchor{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-weight: bold;
+    background-color: lightblue;
+    color: darkslateblue;
+}
+
+#back{
+    font-size: 20px;
+    font-family: 'BhuTuka Expanded One', cursive;
+    font-weight: bold;
+    float: right;
+    margin-right: 20px;
+}
